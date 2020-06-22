@@ -1,0 +1,2 @@
+D:\github repository\a-pathfinder\apZip1\x64\Debug\ACW_Template.exe
+D:\github repository\a-pathfinder\apZip1\x64\Debug\ACW_Template.pdb

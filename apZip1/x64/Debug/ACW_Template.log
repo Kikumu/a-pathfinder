@@ -1,0 +1,14 @@
+﻿  Arc.cpp
+  Main.cpp
+  Navigation.cpp
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(479,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(708,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(765,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(868,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(909,7): warning C4101: 'newline_delimiter': unreferenced local variable
+  Node.cpp
+D:\github repository\a-pathfinder\apZip1\Node.cpp(59,50): warning C4227: anachronism used: qualifiers on reference are ignored
+  Generating Code...
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(899): warning C4715: 'Navigation::ProcessCommand': not all control paths return a value
+D:\github repository\a-pathfinder\apZip1\Navigation.cpp(990): warning C4715: 'Navigation::BuildNetwork': not all control paths return a value
+  ACW_Template.vcxproj -> D:\github repository\a-pathfinder\apZip1\x64\Debug\ACW_Template.exe
